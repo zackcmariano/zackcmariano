@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Zack Mariano :computer:
+# Zack Mariano :computer:
