@@ -14,6 +14,5 @@ Here are some ideas to get you started:
 -->
 
 # Hello World! I'm Zack Mariano :computer:
-![githubreadm](https://user-images.githubusercontent.com/76967004/105156947-3d77ae00-5aeb-11eb-9b36-e90f040aa7b9.png)
-
+![githubreadm22](https://user-images.githubusercontent.com/76967004/105157320-a0694500-5aeb-11eb-8b35-d8c80607a855.png)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zack-mariano-a7b978203/)](https://www.linkedin.com/in/zack-mariano-a7b978203/)
