@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 -->
 
 # Hello World! I'm Zack Mariano :computer:
-## I am part of that 5% that help to write the codes of the present and the future!!
+## I am part of that 5% that help 
+## to write the codes of the present and the future!!
 
 ![githubreadm22](https://user-images.githubusercontent.com/76967004/105157320-a0694500-5aeb-11eb-8b35-d8c80607a855.png)
 
