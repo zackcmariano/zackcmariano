@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 # Hello World! I'm Zack :computer:
 ### :arrow_backward: I am part of that 5% that help to write the codes of the present and the future!! :arrow_forward:
 
-![Gitzinho](https://user-images.githubusercontent.com/76967004/105395609-afd8b300-5bfd-11eb-858f-63712c13573b.png)
+![GitHubzinho](https://user-images.githubusercontent.com/76967004/105396052-33929f80-5bfe-11eb-94b1-1e8925c65988.png)
 
 # [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zack-mariano-a7b978203/)](https://www.linkedin.com/in/zack-mariano-a7b978203/)
