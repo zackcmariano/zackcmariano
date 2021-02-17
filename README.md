@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 # Hello World! I'm Zack | :computer: |
-### :octocat: Developer in action! :octocat:
+## :octocat: Developer in action! :octocat:
 
 ![GitHubzinho](https://user-images.githubusercontent.com/76967004/105396052-33929f80-5bfe-11eb-94b1-1e8925c65988.png)
 
