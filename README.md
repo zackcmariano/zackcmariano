@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hello World! I'm Zack | :computer: |
+# Hello World! | :computer: |
 ## :octocat: Developer in action! :octocat:
 
-![GitHubzinho](https://user-images.githubusercontent.com/76967004/105396052-33929f80-5bfe-11eb-94b1-1e8925c65988.png)
+![git](https://user-images.githubusercontent.com/76967004/110259532-ea689600-7f86-11eb-901d-26dce76815cb.png)
 
 # [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zack-mariano-a7b978203/)](https://www.linkedin.com/in/zack-mariano-a7b978203/) 
