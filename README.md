@@ -21,3 +21,4 @@ Here are some ideas to get you started:
 ## The world is constantly evolving and we are living in the age of Machines and Data.
 
 # [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zack-mariano-a7b978203/)](https://www.linkedin.com/in/zack-mariano-a7b978203/) 
+[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">]
