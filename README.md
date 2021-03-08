@@ -14,8 +14,10 @@ Here are some ideas to get you started:
 -->
 
 # Hello World! | :computer: |
-## :octocat: Developer in action! :octocat:
+## Developer in action!
 
 ![DataScience2](https://user-images.githubusercontent.com/76967004/110259764-205a4a00-7f88-11eb-82ce-e6da72d63b40.png)
+
+## The world is constantly evolving and we are living in the age of Machines and Data.
 
 # [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zack-mariano-a7b978203/)](https://www.linkedin.com/in/zack-mariano-a7b978203/) 
