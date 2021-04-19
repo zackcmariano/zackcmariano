@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 
 ![DataScience2](https://user-images.githubusercontent.com/76967004/110259764-205a4a00-7f88-11eb-82ce-e6da72d63b40.png)
 
-## The world is constantly evolving and we are living in the age of Machines and Data.
+## The world is constantly evolving and we are living in the age of Machines and Data
 
 # [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com//in/zack-mariano-a7b978203/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/zackcmariano/)
