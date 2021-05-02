@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 # | :computer: |
-## Developer in action!
+## Developer in action
 
 ![DataScience2](https://user-images.githubusercontent.com/76967004/110259764-205a4a00-7f88-11eb-82ce-e6da72d63b40.png)
 
